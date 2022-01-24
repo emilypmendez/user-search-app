@@ -31,6 +31,9 @@ You may also see any lint errors in the console.
 - Functionality is carried throughout the app components infrastructure.
 
 ## Future Improvements (with more time)
+- UX: I would develop a photo within the contact card with inline styling.
+- UX: I would import real photos to fill in the placeholder image.
+- UX: I would filter for email address instead of the requested information of this exercise.
 
 ================================================
 
